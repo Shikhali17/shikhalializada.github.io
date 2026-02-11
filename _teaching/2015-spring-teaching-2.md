@@ -1,20 +1,13 @@
----
-title: "Teaching experience 2"
+﻿---
+title: "Investments and Financial Institutions"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate, MBA, and PhD"
+permalink: /teaching/2015-spring-teaching-2
+venue: "West Virginia University, John Chambers College of Business and Economics"
+date: 2024-01-02
+location: "Morgantown, WV"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course coverage includes portfolio theory, asset pricing, trading frictions, market structure, and institution-level intermediation.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Also includes doctoral-level investments teaching.

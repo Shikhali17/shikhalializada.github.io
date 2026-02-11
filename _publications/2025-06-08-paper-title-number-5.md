@@ -1,13 +1,13 @@
----
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+﻿---
+title: "Climate Risk Perception and Mutual Fund Flows: Implications for Performance"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-06-08-paper-title-number-5
+excerpt: 'Climate news sensitivity in mutual fund flows and cross-sectional return predictability.'
+date: 2024-06-07
+venue: 'Working Paper (SSRN)'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857467'
+citation: 'Lantushenko, V., and Zaynutdinova, G. R. (2024). &quot;Climate Risk Perception and Mutual Fund Flows: Implications for Performance.&quot; Working paper. SSRN 4857467.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+The paper develops a climate-risk-flow sensitivity measure and tests its relation to mutual fund performance.

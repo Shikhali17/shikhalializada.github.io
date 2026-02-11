@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -7,58 +7,46 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Academic Appointment
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- Associate Professor of Finance, Department of Finance, John Chambers College of Business and Economics, West Virginia University
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Areas
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Empirical asset pricing
+- Institutional investors
+- Market efficiency
+- Corporate governance
+- Responsible investing
+- Energy finance
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Ph.D. in Finance, Washington State University, Pullman, WA
+- M.A. in Applied Economics, Washington State University, Pullman, WA
+
+## Selected Honors and Awards
+
+- Best Paper Award, Financial Review, 2023
+- Outstanding Research Award, Department of Finance, WVU, 2022
+- Summer Salary Research Grant, Chambers College of Business and Economics, WVU (2020, 2021)
+- Runner-Up Best Paper Award, Financial Markets and Corporate Governance Organization, 2018
+- Outstanding Teaching Award, Department of Finance, WVU, 2017
+
+## Selected Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Teaching
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Contact
+
+- Email: Gulnara.Zaynutdinova@mail.wvu.edu
+- Phone: 304-293-7836
+- Office: 4105 Reynolds Hall, Morgantown, WV 26506

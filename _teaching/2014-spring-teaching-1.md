@@ -1,20 +1,16 @@
----
-title: "Teaching experience 1"
+﻿---
+title: "Financial Management"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and MBA"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "West Virginia University, John Chambers College of Business and Economics"
+date: 2024-01-01
+location: "Morgantown, WV"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Core corporate finance course covering time value of money, capital budgeting, cost of capital, and payout decisions.
 
-Heading 1
-======
+Audience:
 
-Heading 2
-======
-
-Heading 3
-======
+- Undergraduate finance students
+- MBA students
